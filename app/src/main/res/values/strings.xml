@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather2</string>
+    <string name="title_home">Local weather</string>
+    <string name="title_about">About</string>
+    <string name="temperature">%1$.1f °C</string>
+    <string name="wind_speed">%1$.1f m/s</string>
+    <string name="precipitation_amount">%1$.1f mm</string>
+    <string name="about">Cool weather app</string>
+</resources>
